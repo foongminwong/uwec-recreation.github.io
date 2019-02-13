@@ -1,0 +1,144 @@
+iframe {
+  border:2px solid lightgrey;
+  /*border-color:#e2e3e4;*/
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.banner {
+  max-width: 100%;
+}
+
+.page {
+  min-height: 100%;
+  position: relative;
+}
+
+.content {
+  padding-bottom:100px;
+}
+
+.footer {
+}
+.nav-link {
+  font-size: 1.5em;
+}
+
+.social-media {
+  height: 1.25em;
+}
+
+.logo {
+  max-width:125px;
+}
+
+.logo-rule {
+  border:none;
+  height:50px;
+  background-color:#edac1a;
+  z-index:-10;
+  position:relative;
+  top:-102px;
+}
+
+.mx-6 {
+  margin-left:10%;
+  margin-right:10%;
+}
+
+.bulletless-grey {
+  list-style: none;
+  border-left-style:solid;
+  border-left-width:6px;
+  border-left-color:#e2e3e4;
+  padding-left:30px;
+}
+
+.brand-blue {
+  color:#2b3e85 !important;
+}
+
+#brand-yellow {
+  color:#edac1a;
+}
+
+#banner{
+  margin-bottom:30px;
+}
+
+#navbarDropdown {
+  color:#2b3e85;
+}
+
+.title-sponsor {
+  max-height:175px;
+  max-width:200px;
+  opacity:0.50;
+}
+
+.title-sponsor:hover {
+  max-height:175px;
+  max-width:200px;
+  opacity:1.0;
+}
+
+.sponsor {
+  max-height:85px;
+  min-height:70px;
+  opacity:0.50;
+}
+
+.sponsor:hover{
+  max-height:85px;
+  min-height:70px;
+  opacity:1.0;
+}
+
+.name {
+  font-style: normal;
+}
+
+.organization {
+  font-style: normal;
+}
+
+.title-sponsors {
+  max-height:175px;
+  max-width:200px;
+}
+
+.sponsors {
+  max-height:85px;
+  min-height:70px;
+}
+
+.button-brand {
+  background-color: #2b3e85;
+  color: #edac1a;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.button-brand:hover {
+  background-color: #edac1a;
+  color: #2b3e85;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.nav-link:hover {
+  padding-bottom: 4px;
+  border-bottom-style: solid;
+  border-bottom-color: #2b3e85;
+  border-bottom-width: 4px;
+}
